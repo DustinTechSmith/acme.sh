@@ -18,7 +18,7 @@ dns_me_add() {
     ME_Key=""
     ME_Secret=""
     _err "You didn't specify DNSMadeEasy api key and secret yet."
-    _err "Please create you key and try again."
+    _err "Please create your key and try again."
     return 1
   fi
 
